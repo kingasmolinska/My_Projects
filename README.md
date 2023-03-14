@@ -14,13 +14,13 @@ Two modules were tested: Login and Account Creation, both in polish.
 
 What has been done:
 
-Test cases in the Test Rail tool
+- Test cases in the Test Rail tool
 
-Notification of defects in JIRA
+- Notification of defects in JIRA
 
-Test in the Selenium IDE tool
+- Test in the Selenium IDE tool
 
-Exploratory session in Rapid Reporter tool
+- Exploratory session in Rapid Reporter tool
 
 
 
