@@ -22,8 +22,8 @@ What has been done:
 
 - Exploratory session in Rapid Reporter tool
 
-
-
+Specification: https://github.com/kolorobot/spring-mvc-icm-demo/wiki
+Comments on the specification: 
 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
