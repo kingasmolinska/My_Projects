@@ -22,7 +22,8 @@ What has been done:
 
 - Exploratory session in Rapid Reporter tool
 
-Specification: https://github.com/kolorobot/spring-mvc-icm-demo/wiki
+<a href="https://github.com/kolorobot/spring-mvc-icm-demo/wiki" > Specyfikacja </a>
+
 Comments on the specification: 
 
 <a href="https://docs.google.com/spreadsheets/d/1Tmceu7DK0Adg5c_vEvVPQktEieqqe1Bz-htz2u1UxYg/edit?usp=sharing" > Uwagi do specyfikacji </a>
