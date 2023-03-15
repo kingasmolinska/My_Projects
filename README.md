@@ -27,3 +27,5 @@ What has been done:
 Comments on the specification: 
 
 <a href="https://docs.google.com/spreadsheets/d/1Tmceu7DK0Adg5c_vEvVPQktEieqqe1Bz-htz2u1UxYg/edit?usp=sharing" > Uwagi do specyfikacji </a>
+
+<a href="https://docs.google.com/spreadsheets/d/1Tmceu7DK0Adg5c_vEvVPQktEieqqe1Bz-htz2u1UxYg/edit?usp=sharing" > Przypadki testowe - Test Cases </a>
