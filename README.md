@@ -1,5 +1,5 @@
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 My Projects (in progress):</h2>
 
 <b>ICM Application - Testing Login and Account Creation</b>
 
@@ -20,7 +20,7 @@ What has been done:
 
 - Test in the Selenium IDE tool
 
-- Exploratory session in Rapid Reporter tool
+- Exploratory session in Rapid Reporter tool (in progress) 
 
 <a href="https://github.com/kolorobot/spring-mvc-icm-demo/wiki" > Specyfikacja </a>
 
