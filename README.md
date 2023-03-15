@@ -25,4 +25,4 @@ What has been done:
 Specification: https://github.com/kolorobot/spring-mvc-icm-demo/wiki
 Comments on the specification: 
 
-<a href="https://docs.google.com/spreadsheets/d/1Tmceu7DK0Adg5c_vEvVPQktEieqqe1Bz-htz2u1UxYg/edit?usp=sharing" > nazwa </a>
+<a href="https://docs.google.com/spreadsheets/d/1Tmceu7DK0Adg5c_vEvVPQktEieqqe1Bz-htz2u1UxYg/edit?usp=sharing" > Uwagi do specyfikacji </a>
